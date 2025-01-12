@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programing, Data Analysis, Machine Learing and Deep Learning, Networking.
 - 🌱 I’m currently learning Python, Microsoft PowerBi, Deep Learning
 - 💞️ I’m looking to collaborate on projects that cover my areas of interest
+- Fun fact: I love fishing and and challanging analytics 
 
 
 <!---
